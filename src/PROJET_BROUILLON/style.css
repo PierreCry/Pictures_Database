@@ -1,0 +1,61 @@
+
+.spg {
+	-fx-background-color: #C2C2C2;
+}
+
+.tpg {
+	-fx-background-color: #C2C2C2;
+}
+
+.image {
+	-fx-effect: dropshadow(three-pass-box, rgba(0.0,0.0,0.0,0.8), 10.0, 0.0, 0.0, 0.0);
+}
+
+.vbox {
+	-fx-background-color: #C2C2C2;
+}
+
+.vbox:hover {
+	-fx-background-color: #42A5F5;
+}
+
+.label1 {
+	-fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Semibold";
+}
+
+.label1:hover {
+	-fx-text-fill: white;
+}
+
+#TabGalerie {
+	-fx-font-size: 12pt;
+}
+
+#TabImageComplete {
+	-fx-font-size: 12pt;
+}
+
+#SplitAnchor1 {
+	-fx-background-color: #C2C2C2;
+	-fx-font-size: 11pt;
+	-fx-font-family: "Segoe UI Semibold";
+}
+
+#LeftImgComplete {
+	-fx-background-color: #C2C2C2;
+}
+
+#RightImgComplete {
+	-fx-background-color: #C2C2C2;
+	-fx-font-size: 11pt;
+	-fx-font-family: "Segoe UI Semibold";
+}
+
+.but:hover {
+	-fx-background-color: #42A5F5;
+}
+
+.val:hover {
+	-fx-background-color: "yellow";
+}
